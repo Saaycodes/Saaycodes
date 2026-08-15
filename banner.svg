@@ -1,0 +1,49 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a371f7"/>
+      <stop offset="100%" stop-color="#f778ba"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="892" height="312" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="12" y="12" width="876" height="296" rx="10" fill="none" stroke="url(#grad)" stroke-width="1.5" opacity="0.55"/>
+
+  <text x="36" y="55" font-family="SFMono-Regular,Consolas,monospace" font-size="26" font-weight="700" letter-spacing="1" fill="#f0f6fc">PLAYER: SAYALI ANDHALE</text>
+  <text x="36" y="80" font-family="SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="1" fill="#8b949e">B.TECH IT &#183; CYBERSECURITY PATH &#183; VIT MUMBAI</text>
+
+  <circle cx="840" cy="48" r="28" fill="url(#grad)"/>
+  <text x="840" y="53" text-anchor="middle" font-family="SFMono-Regular,Consolas,monospace" font-size="15" font-weight="700" fill="#0d1117">LV.3</text>
+
+  <line x1="36" y1="100" x2="864" y2="100" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Full-Stack Dev -->
+  <text x="36" y="140" font-family="SFMono-Regular,Consolas,monospace" font-size="13" fill="#c9d1d9">Full-Stack Dev</text>
+  <rect x="240" y="129" width="520" height="14" rx="7" fill="#21262d"/>
+  <rect x="240" y="129" width="390" height="14" rx="7" fill="url(#grad)"/>
+  <text x="772" y="140" font-family="SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">75%</text>
+
+  <!-- Machine Learning -->
+  <text x="36" y="176" font-family="SFMono-Regular,Consolas,monospace" font-size="13" fill="#c9d1d9">Machine Learning</text>
+  <rect x="240" y="165" width="520" height="14" rx="7" fill="#21262d"/>
+  <rect x="240" y="165" width="312" height="14" rx="7" fill="url(#grad)"/>
+  <text x="772" y="176" font-family="SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">60%</text>
+
+  <!-- DSA -->
+  <text x="36" y="212" font-family="SFMono-Regular,Consolas,monospace" font-size="13" fill="#c9d1d9">DSA / Problem Solving</text>
+  <rect x="240" y="201" width="520" height="14" rx="7" fill="#21262d"/>
+  <rect x="240" y="201" width="260" height="14" rx="7" fill="url(#grad)"/>
+  <text x="772" y="212" font-family="SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">50%</text>
+
+  <!-- Security -->
+  <text x="36" y="248" font-family="SFMono-Regular,Consolas,monospace" font-size="13" fill="#c9d1d9">Security (in training)</text>
+  <rect x="240" y="237" width="520" height="14" rx="7" fill="#21262d"/>
+  <rect x="240" y="237" width="156" height="14" rx="7" fill="url(#grad)"/>
+  <text x="772" y="248" font-family="SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">30%</text>
+
+  <!-- UI/UX -->
+  <text x="36" y="284" font-family="SFMono-Regular,Consolas,monospace" font-size="13" fill="#c9d1d9">UI / UX</text>
+  <rect x="240" y="273" width="520" height="14" rx="7" fill="#21262d"/>
+  <rect x="240" y="273" width="286" height="14" rx="7" fill="url(#grad)"/>
+  <text x="772" y="284" font-family="SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">55%</text>
+</svg>
